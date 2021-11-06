@@ -38,9 +38,12 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 'Jun 2019', text: 'Started my #DevJourney', },
+  { year: 'Jul 2019', text: 'Learned basics of programming using Python language', },
+  { year: 'Dec 2019', text: 'Got introduced to Android development by a Friend and started my #AndroidDev Journey', },
+  { year: 'Mar 2020', text: 'Stuck at home due to lockdown(covid-19 situation) but kept polishing my Android Skills', },
+  { year: 'Feb 2021', text: 'Landed my first Internship for Android Developer role', },
+  { year: 'Mar 2021', text: 'Got introduced to Web Development by Senior and started my #WebDev Journey', },
+  { year: 'Jul 2021', text: 'Learned alot about Web dev, UI/UX, Android design and much more', },
+  { year: 'Present', text: 'Still learning and growing everyday...', },
 ];
